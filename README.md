@@ -1,7 +1,7 @@
 # Prework Study Guide Webpage 
 
 ## Description
-My motivation for this project was to learn the foundations of HTML, CSS,  JavaScript and Git. This allowed for future projects to be completed with greater ease and efficiency. Without the completetion of work, there is the potential to become lost in future projects. Therefore this project filled the gaps of knowledge I have for coding. 
+My motivation for this project was to learn the foundations of HTML, CSS,  JavaScript and Git. This allowed for future projects to be completed with greater ease and efficiency. Without the completion of work, there is the potential to become lost in future projects. Therefore, this project filled the gaps of knowledge I have for coding. 
 
 ## Installation
 N/A
